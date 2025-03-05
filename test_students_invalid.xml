@@ -1,0 +1,13 @@
+
+    <students>
+        <student>
+            <name>Иванов И.И.</name>
+            <group_number>123</group_number>
+            <performance>5,5,5,abc</performance>
+        </student>
+        <student>
+            <name>Петров П.П.</name>
+            <group_number>124</group_number>
+            <performance>4,xyz,4,4</performance>
+        </student>
+    </students>

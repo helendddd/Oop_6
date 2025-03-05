@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Иванов И.И.",
+        "group_number": "123",
+        "performance": [
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "Петров П.П.",
+        "group_number": "124",
+        "performance": [
+            4,
+            4,
+            4,
+            4,
+            4
+        ]
+    }
+]
